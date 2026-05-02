@@ -3,6 +3,13 @@
     "appInsights1": {
       "type": "appInsights",
       "connectionId": null
+    },
+    "secrets1": {
+      "type": "secrets"
+    },
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DatabaseConnection"
     }
   }
 }
